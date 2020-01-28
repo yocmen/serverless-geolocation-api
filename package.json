@@ -14,7 +14,6 @@
   "author": "Arjun Komath <arjunkomath@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.5.1",
     "maxmind": "^4.1.0"
   },
   "devDependencies": {
