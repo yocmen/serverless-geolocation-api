@@ -1,8 +1,10 @@
+org: polway
+app: vtutor-geo-api
 service: geolocation-api
 
 provider:
   name: aws
-  runtime: nodejs8.10
+  runtime: nodejs10.x
   memorySize: 256
   iamRoleStatements:
     - Effect: 'Allow'

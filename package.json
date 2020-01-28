@@ -15,9 +15,9 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "maxmind": "^2.6.0"
+    "maxmind": "^4.1.0"
   },
   "devDependencies": {
-    "serverless-plugin-warmup": "^3.6.1-rc.1"
+    "serverless-plugin-warmup": "^4.8.0"
   }
 }
