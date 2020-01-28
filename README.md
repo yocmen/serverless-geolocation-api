@@ -7,7 +7,7 @@
 With Serverless Framework v1.5 and later, a new project based on the project template is initialized with the command
 
 ```
-> sls install -u https://github.com/arjunkomath/serverless-geolocation-api -n myservicename
+> sls install -u https://github.com/yocmen/serverless-geolocation-api.git -n myservicename
 > cd myservicename
 > npm install
 ```
